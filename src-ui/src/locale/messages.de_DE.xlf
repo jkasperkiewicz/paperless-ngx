@@ -10,14 +10,14 @@
         </context-group>
         <target state="final">Schließen</target>
       </trans-unit>
-      <trans-unit id="ngb.carousel.slide-number" datatype="html">
+      <trans-unit id="ngb.carousel.slide-number" datatype="html" approved="yes">
         <source> Slide <x id="INTERPOLATION" equiv-text="ueryList&lt;NgbSli"/> of <x id="INTERPOLATION_1" equiv-text="EventSource = N"/> </source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">132,136</context>
         </context-group>
         <note priority="1" from="description">Currently selected slide number read by screen reader</note>
-        <target state="translated"> Teil <x id="INTERPOLATION" equiv-text="ueryList&lt;NgbSli"/> von <x id="INTERPOLATION_1" equiv-text="EventSource = N"/> </target>
+        <target state="final"> Folie <x id="INTERPOLATION" equiv-text="ueryList&lt;NgbSli"/> von <x id="INTERPOLATION_1" equiv-text="EventSource = N"/> </target>
       </trans-unit>
       <trans-unit id="ngb.carousel.previous" datatype="html" approved="yes">
         <source>Previous</source>

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-01-28 12:11\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -55,7 +55,7 @@ msgstr "最大ネストの深さを超えました。"
 
 #: documents/filters.py:785
 msgid "Custom field not found"
-msgstr ""
+msgstr "カスタムフィールドが見つかりません"
 
 #: documents/models.py:41 documents/models.py:801
 msgid "owner"
@@ -918,7 +918,7 @@ msgstr "パラメータを使用する"
 
 #: documents/models.py:1214
 msgid "send as JSON"
-msgstr ""
+msgstr "JSON形式で送信"
 
 #: documents/models.py:1218
 msgid "webhook parameters"

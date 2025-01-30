@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-01-30 00:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -918,7 +918,7 @@ msgstr "utilizar parámetros"
 
 #: documents/models.py:1214
 msgid "send as JSON"
-msgstr ""
+msgstr "enviar como JSON"
 
 #: documents/models.py:1218
 msgid "webhook parameters"
@@ -1310,7 +1310,7 @@ msgstr "Autenticación de dos factores Paperless-ngx"
 
 #: documents/templates/mfa/authenticate.html:12
 msgid "Your account is protected by two-factor authentication. Please enter an authenticator code:"
-msgstr ""
+msgstr "Su cuenta está protegida por la autenticación de dos factores. Por favor, introduzca un código de autenticación:"
 
 #: documents/templates/mfa/authenticate.html:17
 msgid "Code"
@@ -1725,7 +1725,7 @@ msgstr "OAuth de Gmail"
 
 #: paperless_mail/models.py:21
 msgid "Outlook OAuth"
-msgstr ""
+msgstr "Outlook OAuth"
 
 #: paperless_mail/models.py:25
 msgid "IMAP server"
